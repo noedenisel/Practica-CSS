@@ -1,0 +1,23 @@
+/* CSS DOCUMENT*/
+body {background-color:cyan;}
+h1{color:red;
+font-family:"Arial Narrow"}
+h2{color: blue;
+font-style: italic;
+text-decoration: underline;}
+span.code {font-weight: bold;
+font-family: 'Courier New'}
+span.mayor {font-size: xx-large;}
+span.menor {font-size: xx-small;}
+table.tabla1 {margin: 0;
+   padding:0;
+   background-color: blue;
+   width: 100%;
+   border: thin none black;
+   text-align: left;}
+td {padding: 0;
+    margin: 0;
+    border: thick solid black;
+    color: yellow;}
+td.rojo {background-color: red;
+    color: white;}
